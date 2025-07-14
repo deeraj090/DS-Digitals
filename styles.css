@@ -1,0 +1,19 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: #212529;
+}
+.navbar {
+    background-color: #343a40;
+}
+.masthead {
+    background-color: #007bff;
+    color: white;
+    padding: 100px 0;
+    text-align: center;
+}
+.page-section {
+    padding: 60px 0;
+}
+.footer {
+    background-color: #f8f9fa;
+}
